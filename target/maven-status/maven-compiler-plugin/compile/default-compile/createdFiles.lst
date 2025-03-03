@@ -1,0 +1,17 @@
+com\swiftbank\dal\IClientDAO.class
+com\swiftbank\bll\ClientService.class
+com\swiftbank\dal\IProductDAO.class
+com\swiftbank\dl\DatabaseConnection.class
+com\swiftbank\dal\ClientDAO.class
+com\swiftbank\model\Product.class
+com\swiftbank\model\Bank.class
+com\swiftbank\bll\MortgageAmortizationService.class
+com\swiftbank\fel\AMC_TUI.class
+com\swiftbank\dal\ProductDAO.class
+com\swiftbank\bll\InterestRateService.class
+com\swiftbank\dal\IBankDAO.class
+com\swiftbank\model\Client.class
+com\swiftbank\dal\BankDAO.class
+com\swiftbank\model\Mortgage.class
+com\swiftbank\bll\InsuranceRateService.class
+com\swiftbank\fel\SwiftBankApp.class
